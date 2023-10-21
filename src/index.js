@@ -1,7 +1,5 @@
-const moment = require('moment');
+const semver = require('semver');
 
-const a = 10;
+const one = semver.valid('1.2.3');
 
-const day = moment().format('dddd');
-
-console.log(day);
+console.log(semver.valid('1.5.'));
