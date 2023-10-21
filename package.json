@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/sun-n-y/npmIntro/issues"
   },
-  "homepage": "https://github.com/sun-n-y/npmIntro#readme"
+  "homepage": "https://github.com/sun-n-y/npmIntro#readme",
+  "dependencies": {
+    "moment": "^2.29.4"
+  }
 }
