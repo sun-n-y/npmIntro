@@ -17,8 +17,10 @@
   },
   "homepage": "https://github.com/sun-n-y/npmIntro#readme",
   "dependencies": {
-    "browserslist": "^4.22.1",
     "moment": "^2.29.4",
     "semver": "^7.5.4"
+  },
+  "devDependencies": {
+    "browserslist": "^4.22.1"
   }
 }
